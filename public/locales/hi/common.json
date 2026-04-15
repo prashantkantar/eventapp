@@ -1,0 +1,129 @@
+{
+  "nav": {
+    "discover": "खोजें",
+    "search": "सर्च",
+    "myBookings": "मेरी बुकिंग",
+    "profile": "प्रोफ़ाइल"
+  },
+  "home": {
+    "title": "बैंगलोर में इवेंट खोजें",
+    "subtitle": "अपने पास के बेहतरीन इवेंट ढूंढें",
+    "featuredBadge": "फ़ीचर्ड",
+    "soldOut": "बिक गया",
+    "free": "मुफ़्त",
+    "from": "से",
+    "seatsLeft": "{count} सीटें बची हैं",
+    "noEvents": "कोई इवेंट नहीं मिला।",
+    "clearFilters": "फ़िल्टर हटाएं"
+  },
+  "filters": {
+    "allCategories": "सभी",
+    "allZones": "सभी क्षेत्र",
+    "anyDate": "कोई भी तारीख",
+    "anyTime": "कोई भी समय",
+    "location": "स्थान",
+    "date": "तारीख",
+    "time": "समय"
+  },
+  "categories": {
+    "Music": "संगीत",
+    "Comedy": "कॉमेडी",
+    "Food & Drink": "खाना-पीना",
+    "Sports": "खेल",
+    "Art": "कला",
+    "Theatre": "नाटक",
+    "Nightlife": "नाइटलाइफ़",
+    "Kids": "बच्चे",
+    "Wellness": "वेलनेस"
+  },
+  "zones": {
+    "North Bangalore": "उत्तर बैंगलोर",
+    "South Bangalore": "दक्षिण बैंगलोर",
+    "East Bangalore": "पूर्व बैंगलोर",
+    "West Bangalore": "पश्चिम बैंगलोर",
+    "Central Bangalore": "मध्य बैंगलोर"
+  },
+  "eventDetail": {
+    "book": "अभी बुक करें",
+    "planGroup": "ग्रुप के साथ प्लान करें",
+    "soldOut": "बिक गया",
+    "about": "इस इवेंट के बारे में",
+    "venue": "स्थान",
+    "organizer": "आयोजक",
+    "verified": "सत्यापित",
+    "ticketTiers": "टिकट विकल्प",
+    "available": "उपलब्ध",
+    "seatsLeft": "{count} सीटें बची हैं",
+    "viewOnMaps": "मैप पर देखें",
+    "share": "शेयर करें"
+  },
+  "booking": {
+    "title": "टिकट बुक करें",
+    "step1": "सीटें",
+    "step2": "जानकारी",
+    "step3": "भुगतान",
+    "step4": "पुष्टि",
+    "selectSeats": "सीटें चुनें",
+    "quantity": "संख्या",
+    "subtotal": "उपयोग",
+    "convenienceFee": "सुविधा शुल्क (3%)",
+    "total": "कुल",
+    "next": "आगे बढ़ें",
+    "back": "वापस",
+    "yourDetails": "आपकी जानकारी",
+    "name": "पूरा नाम",
+    "email": "ईमेल पता",
+    "phone": "मोबाइल नंबर",
+    "payment": "भुगतान",
+    "payViaUPI": "UPI से भुगतान करें",
+    "payViaCard": "कार्ड से भुगतान",
+    "payViaNetbanking": "नेट बैंकिंग",
+    "upiId": "UPI ID",
+    "upiPlaceholder": "yourname@upi",
+    "payNow": "₹{amount} भुगतान करें",
+    "processingPayment": "प्रोसेस हो रहा है...",
+    "confirmed": "बुकिंग की पुष्टि हो गई!",
+    "bookingId": "बुकिंग आईडी",
+    "downloadTicket": "टिकट डाउनलोड करें",
+    "viewBookings": "मेरी बुकिंग देखें",
+    "goHome": "होम पर वापस जाएं"
+  },
+  "bookings": {
+    "title": "मेरी बुकिंग",
+    "upcoming": "आने वाले",
+    "past": "पिछले",
+    "noUpcoming": "कोई आगामी बुकिंग नहीं।",
+    "noPast": "कोई पिछली बुकिंग नहीं।",
+    "browseEvents": "इवेंट ब्राउज़ करें",
+    "status": {
+      "upcoming": "आने वाला",
+      "completed": "पूर्ण",
+      "cancelled": "रद्द"
+    }
+  },
+  "profile": {
+    "title": "प्रोफ़ाइल",
+    "language": "भाषा",
+    "interests": "मेरी रुचियां",
+    "selectLanguage": "भाषा चुनें",
+    "languages": {
+      "en": "English",
+      "hi": "हिन्दी",
+      "kn": "ಕನ್ನಡ",
+      "ta": "தமிழ்"
+    },
+    "saveInterests": "रुचियां सहेजें"
+  },
+  "search": {
+    "placeholder": "इवेंट, कलाकार, स्थान खोजें...",
+    "results": "{count} परिणाम",
+    "noResults": "\"{query}\" के लिए कोई परिणाम नहीं मिला"
+  },
+  "groupPlan": {
+    "title": "ग्रुप के साथ प्लान करें",
+    "description": "इस इवेंट को दोस्तों के साथ शेयर करें और साथ में बुक करें।",
+    "copyLink": "लिंक कॉपी करें",
+    "shareWhatsApp": "WhatsApp पर शेयर करें",
+    "copied": "लिंक कॉपी हो गया!"
+  }
+}

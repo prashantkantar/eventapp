@@ -1,0 +1,129 @@
+{
+  "nav": {
+    "discover": "கண்டுபிடி",
+    "search": "தேடு",
+    "myBookings": "என் பதிவுகள்",
+    "profile": "சுயவிவரம்"
+  },
+  "home": {
+    "title": "பெங்களூரில் நிகழ்வுகளை கண்டுபிடி",
+    "subtitle": "உங்களுக்கு அருகிலுள்ள சிறந்த நிகழ்வுகளை கண்டறியுங்கள்",
+    "featuredBadge": "சிறப்பு",
+    "soldOut": "விற்று முடிந்தது",
+    "free": "இலவசம்",
+    "from": "இருந்து",
+    "seatsLeft": "{count} இருக்கைகள் உள்ளன",
+    "noEvents": "எந்த நிகழ்வும் கிடைக்கவில்லை.",
+    "clearFilters": "வடிகட்டிகளை அழி"
+  },
+  "filters": {
+    "allCategories": "அனைத்தும்",
+    "allZones": "அனைத்து பகுதிகள்",
+    "anyDate": "எந்த தேதியும்",
+    "anyTime": "எந்த நேரமும்",
+    "location": "இடம்",
+    "date": "தேதி",
+    "time": "நேரம்"
+  },
+  "categories": {
+    "Music": "இசை",
+    "Comedy": "நகைச்சுவை",
+    "Food & Drink": "உணவு & பானம்",
+    "Sports": "விளையாட்டு",
+    "Art": "கலை",
+    "Theatre": "நாடகம்",
+    "Nightlife": "இரவு வாழ்க்கை",
+    "Kids": "குழந்தைகள்",
+    "Wellness": "ஆரோக்கியம்"
+  },
+  "zones": {
+    "North Bangalore": "வடக்கு பெங்களூர்",
+    "South Bangalore": "தெற்கு பெங்களூர்",
+    "East Bangalore": "கிழக்கு பெங்களூர்",
+    "West Bangalore": "மேற்கு பெங்களூர்",
+    "Central Bangalore": "மத்திய பெங்களூர்"
+  },
+  "eventDetail": {
+    "book": "இப்போதே பதிவு செய்",
+    "planGroup": "குழுவுடன் திட்டமிடு",
+    "soldOut": "விற்று முடிந்தது",
+    "about": "இந்த நிகழ்வு பற்றி",
+    "venue": "இடம்",
+    "organizer": "ஏற்பாட்டாளர்",
+    "verified": "சரிபார்க்கப்பட்டது",
+    "ticketTiers": "டிக்கெட் விருப்பங்கள்",
+    "available": "கிடைக்கும்",
+    "seatsLeft": "{count} இருக்கைகள் உள்ளன",
+    "viewOnMaps": "வரைபடத்தில் பார்",
+    "share": "பகிர்"
+  },
+  "booking": {
+    "title": "டிக்கெட் பதிவு செய்",
+    "step1": "இருக்கைகள்",
+    "step2": "விவரங்கள்",
+    "step3": "கட்டணம்",
+    "step4": "உறுதிப்படுத்தல்",
+    "selectSeats": "இருக்கைகளை தேர்ந்தெடு",
+    "quantity": "எண்ணிக்கை",
+    "subtotal": "கூட்டுத்தொகை",
+    "convenienceFee": "வசதிக் கட்டணம் (3%)",
+    "total": "மொத்தம்",
+    "next": "தொடர்",
+    "back": "பின்னால்",
+    "yourDetails": "உங்கள் விவரங்கள்",
+    "name": "முழு பெயர்",
+    "email": "மின்னஞ்சல் முகவரி",
+    "phone": "மொபைல் எண்",
+    "payment": "கட்டணம்",
+    "payViaUPI": "UPI மூலம் செலுத்து",
+    "payViaCard": "கார்டு மூலம் செலுத்து",
+    "payViaNetbanking": "நெட் பேங்கிங்",
+    "upiId": "UPI ID",
+    "upiPlaceholder": "yourname@upi",
+    "payNow": "₹{amount} செலுத்து",
+    "processingPayment": "செயல்படுத்துகிறது...",
+    "confirmed": "பதிவு உறுதிப்படுத்தப்பட்டது!",
+    "bookingId": "பதிவு ID",
+    "downloadTicket": "டிக்கெட் பதிவிறக்கு",
+    "viewBookings": "என் பதிவுகளை பார்",
+    "goHome": "முகப்புக்கு திரும்பு"
+  },
+  "bookings": {
+    "title": "என் பதிவுகள்",
+    "upcoming": "வரவிருக்கும்",
+    "past": "கடந்த",
+    "noUpcoming": "வரவிருக்கும் பதிவுகள் இல்லை.",
+    "noPast": "கடந்த பதிவுகள் இல்லை.",
+    "browseEvents": "நிகழ்வுகளை உலாவு",
+    "status": {
+      "upcoming": "வரவிருக்கும்",
+      "completed": "முடிந்தது",
+      "cancelled": "ரத்தானது"
+    }
+  },
+  "profile": {
+    "title": "சுயவிவரம்",
+    "language": "மொழி",
+    "interests": "என் விருப்பங்கள்",
+    "selectLanguage": "மொழி தேர்ந்தெடு",
+    "languages": {
+      "en": "English",
+      "hi": "हिन्दी",
+      "kn": "ಕನ್ನಡ",
+      "ta": "தமிழ்"
+    },
+    "saveInterests": "விருப்பங்களை சேமி"
+  },
+  "search": {
+    "placeholder": "நிகழ்வுகள், கலைஞர்கள், இடங்கள் தேடு...",
+    "results": "{count} முடிவுகள்",
+    "noResults": "\"{query}\" க்கு முடிவுகள் இல்லை"
+  },
+  "groupPlan": {
+    "title": "குழுவுடன் திட்டமிடு",
+    "description": "இந்த நிகழ்வை நண்பர்களுடன் பகிர்ந்து ஒன்றாக பதிவு செய்யுங்கள்.",
+    "copyLink": "இணைப்பை நகலெடு",
+    "shareWhatsApp": "WhatsApp இல் பகிர்",
+    "copied": "இணைப்பு நகலெடுக்கப்பட்டது!"
+  }
+}

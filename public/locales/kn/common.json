@@ -1,0 +1,129 @@
+{
+  "nav": {
+    "discover": "ಅನ್ವೇಷಿಸಿ",
+    "search": "ಹುಡುಕಿ",
+    "myBookings": "ನನ್ನ ಬುಕಿಂಗ್",
+    "profile": "ಪ್ರೊಫೈಲ್"
+  },
+  "home": {
+    "title": "ಬೆಂಗಳೂರಿನಲ್ಲಿ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ಹುಡುಕಿ",
+    "subtitle": "ನಿಮ್ಮ ಹತ್ತಿರದ ಉತ್ತಮ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ಕಂಡುಕೊಳ್ಳಿ",
+    "featuredBadge": "ವಿಶೇಷ",
+    "soldOut": "ಮಾರಾಟವಾಗಿದೆ",
+    "free": "ಉಚಿತ",
+    "from": "ಇಂದ",
+    "seatsLeft": "{count} ಆಸನಗಳು ಬಾಕಿ",
+    "noEvents": "ಯಾವುದೇ ಕಾರ್ಯಕ್ರಮ ಸಿಗಲಿಲ್ಲ.",
+    "clearFilters": "ಫಿಲ್ಟರ್ ತೆಗೆದು ಹಾಕಿ"
+  },
+  "filters": {
+    "allCategories": "ಎಲ್ಲವೂ",
+    "allZones": "ಎಲ್ಲಾ ವಲಯಗಳು",
+    "anyDate": "ಯಾವುದೇ ದಿನಾಂಕ",
+    "anyTime": "ಯಾವುದೇ ಸಮಯ",
+    "location": "ಸ್ಥಳ",
+    "date": "ದಿನಾಂಕ",
+    "time": "ಸಮಯ"
+  },
+  "categories": {
+    "Music": "ಸಂಗೀತ",
+    "Comedy": "ಹಾಸ್ಯ",
+    "Food & Drink": "ಆಹಾರ ಮತ್ತು ಪಾನೀಯ",
+    "Sports": "ಕ್ರೀಡೆ",
+    "Art": "ಕಲೆ",
+    "Theatre": "ರಂಗಭೂಮಿ",
+    "Nightlife": "ರಾತ್ರಿ ಜೀವನ",
+    "Kids": "ಮಕ್ಕಳು",
+    "Wellness": "ಆರೋಗ್ಯ"
+  },
+  "zones": {
+    "North Bangalore": "ಉತ್ತರ ಬೆಂಗಳೂರು",
+    "South Bangalore": "ದಕ್ಷಿಣ ಬೆಂಗಳೂರು",
+    "East Bangalore": "ಪೂರ್ವ ಬೆಂಗಳೂರು",
+    "West Bangalore": "ಪಶ್ಚಿಮ ಬೆಂಗಳೂರು",
+    "Central Bangalore": "ಕೇಂದ್ರ ಬೆಂಗಳೂರು"
+  },
+  "eventDetail": {
+    "book": "ಈಗಲೇ ಬುಕ್ ಮಾಡಿ",
+    "planGroup": "ಗ್ರೂಪ್‌ನೊಂದಿಗೆ ಯೋಜಿಸಿ",
+    "soldOut": "ಮಾರಾಟವಾಗಿದೆ",
+    "about": "ಈ ಕಾರ್ಯಕ್ರಮದ ಬಗ್ಗೆ",
+    "venue": "ಸ್ಥಳ",
+    "organizer": "ಆಯೋಜಕ",
+    "verified": "ಪರಿಶೀಲಿಸಲಾಗಿದೆ",
+    "ticketTiers": "ಟಿಕೆಟ್ ಆಯ್ಕೆಗಳು",
+    "available": "ಲಭ್ಯ",
+    "seatsLeft": "{count} ಆಸನಗಳು ಬಾಕಿ",
+    "viewOnMaps": "ನಕ್ಷೆಯಲ್ಲಿ ನೋಡಿ",
+    "share": "ಹಂಚಿಕೊಳ್ಳಿ"
+  },
+  "booking": {
+    "title": "ಟಿಕೆಟ್ ಬುಕ್ ಮಾಡಿ",
+    "step1": "ಆಸನಗಳು",
+    "step2": "ವಿವರಗಳು",
+    "step3": "ಪಾವತಿ",
+    "step4": "ದೃಢೀಕರಣ",
+    "selectSeats": "ಆಸನಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
+    "quantity": "ಸಂಖ್ಯೆ",
+    "subtotal": "ಉಪ ಮೊತ್ತ",
+    "convenienceFee": "ಸೌಕರ್ಯ ಶುಲ್ಕ (3%)",
+    "total": "ಒಟ್ಟು",
+    "next": "ಮುಂದುವರಿಯಿರಿ",
+    "back": "ಹಿಂದೆ",
+    "yourDetails": "ನಿಮ್ಮ ವಿವರಗಳು",
+    "name": "ಪೂರ್ಣ ಹೆಸರು",
+    "email": "ಇಮೇಲ್ ವಿಳಾಸ",
+    "phone": "ಮೊಬೈಲ್ ನಂಬರ್",
+    "payment": "ಪಾವತಿ",
+    "payViaUPI": "UPI ಮೂಲಕ ಪಾವತಿ",
+    "payViaCard": "ಕಾರ್ಡ್ ಮೂಲಕ ಪಾವತಿ",
+    "payViaNetbanking": "ನೆಟ್ ಬ್ಯಾಂಕಿಂಗ್",
+    "upiId": "UPI ID",
+    "upiPlaceholder": "yourname@upi",
+    "payNow": "₹{amount} ಪಾವತಿಸಿ",
+    "processingPayment": "ಪ್ರಕ್ರಿಯೆ ನಡೆಯುತ್ತಿದೆ...",
+    "confirmed": "ಬುಕಿಂಗ್ ದೃಢಪಡಿಸಲಾಗಿದೆ!",
+    "bookingId": "ಬುಕಿಂಗ್ ID",
+    "downloadTicket": "ಟಿಕೆಟ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+    "viewBookings": "ನನ್ನ ಬುಕಿಂಗ್ ನೋಡಿ",
+    "goHome": "ಮುಖ್ಯ ಪುಟಕ್ಕೆ ಹಿಂದಿರುಗಿ"
+  },
+  "bookings": {
+    "title": "ನನ್ನ ಬುಕಿಂಗ್",
+    "upcoming": "ಮುಂಬರುವ",
+    "past": "ಹಿಂದಿನ",
+    "noUpcoming": "ಮುಂಬರುವ ಬುಕಿಂಗ್ ಇಲ್ಲ.",
+    "noPast": "ಹಿಂದಿನ ಬುಕಿಂಗ್ ಇಲ್ಲ.",
+    "browseEvents": "ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ",
+    "status": {
+      "upcoming": "ಮುಂಬರುವ",
+      "completed": "ಮುಗಿದಿದೆ",
+      "cancelled": "ರದ್ದಾಗಿದೆ"
+    }
+  },
+  "profile": {
+    "title": "ಪ್ರೊಫೈಲ್",
+    "language": "ಭಾಷೆ",
+    "interests": "ನನ್ನ ಆಸಕ್ತಿಗಳು",
+    "selectLanguage": "ಭಾಷೆ ಆಯ್ಕೆ ಮಾಡಿ",
+    "languages": {
+      "en": "English",
+      "hi": "हिन्दी",
+      "kn": "ಕನ್ನಡ",
+      "ta": "தமிழ்"
+    },
+    "saveInterests": "ಆಸಕ್ತಿಗಳನ್ನು ಉಳಿಸಿ"
+  },
+  "search": {
+    "placeholder": "ಕಾರ್ಯಕ್ರಮ, ಕಲಾಕಾರ, ಸ್ಥಳ ಹುಡುಕಿ...",
+    "results": "{count} ಫಲಿತಾಂಶಗಳು",
+    "noResults": "\"{query}\" ಗಾಗಿ ಯಾವ ಫಲಿತಾಂಶಗಳು ಸಿಗಲಿಲ್ಲ"
+  },
+  "groupPlan": {
+    "title": "ಗ್ರೂಪ್‌ನೊಂದಿಗೆ ಯೋಜಿಸಿ",
+    "description": "ಈ ಕಾರ್ಯಕ್ರಮವನ್ನು ಸ್ನೇಹಿತರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ ಮತ್ತು ಒಟ್ಟಿಗೆ ಬುಕ್ ಮಾಡಿ.",
+    "copyLink": "ಲಿಂಕ್ ಕಾಪಿ ಮಾಡಿ",
+    "shareWhatsApp": "WhatsApp ನಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಿ",
+    "copied": "ಲಿಂಕ್ ಕಾಪಿ ಆಗಿದೆ!"
+  }
+}

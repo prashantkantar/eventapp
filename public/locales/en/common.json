@@ -1,0 +1,129 @@
+{
+  "nav": {
+    "discover": "Discover",
+    "search": "Search",
+    "myBookings": "My Bookings",
+    "profile": "Profile"
+  },
+  "home": {
+    "title": "Discover Events in Bangalore",
+    "subtitle": "Find the best events near you",
+    "featuredBadge": "Featured",
+    "soldOut": "Sold Out",
+    "free": "Free",
+    "from": "From",
+    "seatsLeft": "{count} seats left",
+    "noEvents": "No events match your filters.",
+    "clearFilters": "Clear Filters"
+  },
+  "filters": {
+    "allCategories": "All",
+    "allZones": "All Zones",
+    "anyDate": "Any Date",
+    "anyTime": "Any Time",
+    "location": "Location",
+    "date": "Date",
+    "time": "Time"
+  },
+  "categories": {
+    "Music": "Music",
+    "Comedy": "Comedy",
+    "Food & Drink": "Food & Drink",
+    "Sports": "Sports",
+    "Art": "Art",
+    "Theatre": "Theatre",
+    "Nightlife": "Nightlife",
+    "Kids": "Kids",
+    "Wellness": "Wellness"
+  },
+  "zones": {
+    "North Bangalore": "North Bangalore",
+    "South Bangalore": "South Bangalore",
+    "East Bangalore": "East Bangalore",
+    "West Bangalore": "West Bangalore",
+    "Central Bangalore": "Central Bangalore"
+  },
+  "eventDetail": {
+    "book": "Book Now",
+    "planGroup": "Plan with Group",
+    "soldOut": "Sold Out",
+    "about": "About this Event",
+    "venue": "Venue",
+    "organizer": "Organizer",
+    "verified": "Verified",
+    "ticketTiers": "Ticket Options",
+    "available": "available",
+    "seatsLeft": "{count} seats left",
+    "viewOnMaps": "View on Maps",
+    "share": "Share"
+  },
+  "booking": {
+    "title": "Book Tickets",
+    "step1": "Seats",
+    "step2": "Details",
+    "step3": "Payment",
+    "step4": "Confirmation",
+    "selectSeats": "Select Seats",
+    "quantity": "Quantity",
+    "subtotal": "Subtotal",
+    "convenienceFee": "Convenience Fee (3%)",
+    "total": "Total",
+    "next": "Continue",
+    "back": "Back",
+    "yourDetails": "Your Details",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Mobile Number",
+    "payment": "Payment",
+    "payViaUPI": "Pay via UPI",
+    "payViaCard": "Pay via Card",
+    "payViaNetbanking": "Net Banking",
+    "upiId": "UPI ID",
+    "upiPlaceholder": "yourname@upi",
+    "payNow": "Pay ₹{amount}",
+    "processingPayment": "Processing...",
+    "confirmed": "Booking Confirmed!",
+    "bookingId": "Booking ID",
+    "downloadTicket": "Download Ticket",
+    "viewBookings": "View My Bookings",
+    "goHome": "Back to Home"
+  },
+  "bookings": {
+    "title": "My Bookings",
+    "upcoming": "Upcoming",
+    "past": "Past",
+    "noUpcoming": "No upcoming bookings.",
+    "noPast": "No past bookings.",
+    "browseEvents": "Browse Events",
+    "status": {
+      "upcoming": "Upcoming",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "language": "Language",
+    "interests": "My Interests",
+    "selectLanguage": "Select Language",
+    "languages": {
+      "en": "English",
+      "hi": "हिन्दी",
+      "kn": "ಕನ್ನಡ",
+      "ta": "தமிழ்"
+    },
+    "saveInterests": "Save Interests"
+  },
+  "search": {
+    "placeholder": "Search events, artists, venues...",
+    "results": "{count} results",
+    "noResults": "No results found for \"{query}\""
+  },
+  "groupPlan": {
+    "title": "Plan with Your Group",
+    "description": "Share this event with friends and book together.",
+    "copyLink": "Copy Link",
+    "shareWhatsApp": "Share on WhatsApp",
+    "copied": "Link copied!"
+  }
+}
