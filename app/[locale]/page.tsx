@@ -31,13 +31,11 @@ export default function HomePage() {
 
   return (
     <div className="space-y-6">
-      {/* Hero */}
       <div className="text-center py-6">
         <h1 className="text-2xl md:text-3xl font-bold text-gray-900">{t('title')}</h1>
         <p className="text-gray-500 mt-1 text-sm">{t('subtitle')}</p>
       </div>
 
-      {/* Featured banner */}
       {featuredEvent && filters.categories.length === 0 && !filters.searchQuery && (
         <div
           className="relative rounded-2xl overflow-hidden h-40 md:h-52 bg-cover bg-center flex items-end p-4"
@@ -52,16 +50,13 @@ export default function HomePage() {
         </div>
       )}
 
-      {/* Search */}
       <SearchBar
         value={filters.searchQuery}
         onChange={(q) => setFilters((f) => ({ ...f, searchQuery: q }))}
       />
 
-      {/* Filters */}
       <FilterBar filters={filters} onChange={setFilters} />
 
-      {/* Results */}
       {events.length === 0 ? (
         <div className="text-center py-16 space-y-3">
           <p className="text-gray-500">{t('noEvents')}</p>
